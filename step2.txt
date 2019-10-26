@@ -1,0 +1,5 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Installation ID: 621679662815866520762452863206557352410584996004615248011457284
+
